@@ -1,5 +1,5 @@
 ## Hi I am oaken 👋
-
+![动图](/dogfish.gif)
 <!--
 **eonsee/eonsee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
